@@ -38,7 +38,7 @@
     "standard": "6.0.8",
     "string": "3.3.1",
     "superagent": "1.8.3",
-    "vue": "1.0.21",
+    "vue": "2.5.17",
     "vue-router": "0.7.11",
     "vue-script2": "1.2.1"
   },
