@@ -23,7 +23,7 @@
   "author": "okTurtles Foundation",
   "license": "GPL-3.0",
   "dependencies": {
-    "bcrypt": "0.8.6",
+    "bcrypt": "5.0.0",
     "bluebird": "3.3.4",
     "hapi": "12.1.0",
     "hapi-auth-cookie": "5.0.0",
